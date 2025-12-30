@@ -1,0 +1,11 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background: #f6b7c8;
+  touch-action: manipulation;
+}
+
+canvas {
+  display: block;
+}
